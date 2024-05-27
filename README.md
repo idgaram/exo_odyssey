@@ -1,3 +1,3 @@
-# exo_odyssey
+# exo_odyssey REMOTE
 quelques
 lignes
